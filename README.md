@@ -37,8 +37,7 @@
 6. 点击"管理照片"查看或删除已上传的图片
 
 ## 📸 效果展示
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1151326664?h=48974cb42e" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
-
+![圣诞树效果演示](https://player.vimeo.com/video/1151326664?h=48974cb42e)
 ## 🛠️ 技术栈
 
 - Three.js：用于3D场景渲染和粒子系统
