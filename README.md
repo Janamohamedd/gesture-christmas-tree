@@ -68,4 +68,6 @@ https://github.com/user-attachments/assets/96b0f849-16f2-4c8c-b4fb-4f86f91090a8
 祝大家圣诞快乐！🎄
 
 欢迎加群交流：
-![qun](https://github.com/user-attachments/assets/38bbf839-e14e-4a5b-bb18-e3e7e4b3a6a4)
+![youxi](https://github.com/user-attachments/assets/dbe1ea6d-774f-4e1f-880f-10b92711ba8d)
+也可以加我让我拉进去：linginlove 
+
